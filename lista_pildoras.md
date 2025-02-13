@@ -1,4 +1,4 @@
-# Prouesta de píldoras
+# Listado de píldoras
 
 [x] presentaciones efectivas (propone: Joseba / hace: Joseba)
 
