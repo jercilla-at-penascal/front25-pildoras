@@ -2,9 +2,9 @@
 
 [x] presentaciones efectivas (propone: Joseba / hace: Joseba)
 
-[ ] metodologias activas de enseñanza (poropone: Joseba / hace: )
+[ ] metodologías activas de enseñanza (propone: Joseba / hace: )
 
-[-] comnados básico linux (propone: Imanol / hace: Orlando)
+[-] comandos básicos linux (propone: Imanol / hace: Orlando)
 
 [ ] ergonomía en el puesto de trabajo (propone: Joseba / hace: ...)
 
