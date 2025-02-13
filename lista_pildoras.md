@@ -8,4 +8,10 @@
 
 [ ] ergonomía en el puesto de trabajo (propone: Joseba / hace: ...)
 
+[ ] conceptos básicos de Figma (propone: Esti / hace: ...)
+
+[ ] conceptos básicos de usabilidad (propone: Esti / hace: ...)
+
+[ ] conceptos básicos de accesibilidad (propone: Esti / hace: ...)
+
 [ ] .... (propone: .... / hace: ...)
