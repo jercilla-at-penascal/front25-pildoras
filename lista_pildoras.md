@@ -4,4 +4,8 @@
 
 [ ] metodologias activas de enseñanza (poropone: Joseba / hace: )
 
-[-] comnados básico linux (propone:Imanol / hace: Orlando)
+[-] comnados básico linux (propone: Imanol / hace: Orlando)
+
+[ ] ergonomía en el puesto de trabajo (propone: Joseba / hace: ...)
+
+[ ] .... (propone: .... / hace: ...)
