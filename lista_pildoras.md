@@ -14,4 +14,4 @@
 
 [ ] conceptos básicos de accesibilidad (propone: Esti / hace: ...)
 
-[ ] .... (propone: .... / hace: ...)
+[ ] frustración en el aprendizaje (propone: Leire / hace: Leire)
