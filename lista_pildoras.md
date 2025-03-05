@@ -10,8 +10,8 @@
 
 [ ] conceptos básicos de Figma (propone: Esti / hace: ...)
 
-[ ] conceptos básicos de usabilidad (propone: Esti / hace: ...)
+[ ] conceptos básicos de usabilidad (propone: Esti / hace: Esti)
 
-[ ] conceptos básicos de accesibilidad (propone: Esti / hace: ...)
+[ ] conceptos básicos de accesibilidad (propone: Esti / hace: Esti)
 
 [ ] frustración en el aprendizaje (propone: Leire / hace: Leire)
