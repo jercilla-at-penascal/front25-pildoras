@@ -4,7 +4,7 @@
 
 [ ] metodologías activas de enseñanza (propone: Joseba / hace: )
 
-[-] comandos básicos linux (propone: Imanol / hace: Orlando)
+[x] comandos básicos linux (propone: Imanol / hace: Orlando)
 
 [ ] ergonomía en el puesto de trabajo (propone: Joseba / hace: ...)
 
@@ -14,4 +14,6 @@
 
 [ ] conceptos básicos de accesibilidad (propone: Esti / hace: Esti)
 
-[ ] frustración en el aprendizaje (propone: Leire / hace: Leire)
+[x] frustración en el aprendizaje (propone: Leire / hace: Leire)
+
+[ ] portfolios personales (propone: joseba / hace: )
