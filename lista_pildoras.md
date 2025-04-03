@@ -17,3 +17,7 @@
 [x] frustración en el aprendizaje (propone: Leire / hace: Leire)
 
 [ ] portfolios personales (propone: joseba / hace: )
+
+[x] cómo adaptar tu cv (propone: imanol / hace: Esti)
+
+[x] agentes de automatización de linkedin (propone: joseba / hace: Nicolás)
