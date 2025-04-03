@@ -20,4 +20,4 @@
 
 [x] cómo adaptar tu cv (propone: imanol / hace: Esti)
 
-[x] agentes de automatización de linkedin (propone: joseba / hace: Nicolás)
+[ ] agentes de automatización de linkedin (propone: joseba / hace: Nicolás)
